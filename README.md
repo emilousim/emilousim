@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Anything and everything! Always seeking opportunities to learn and grow!**
 
-- 👨‍💻 All of my projects are available at [https://emilousim.github.io/](https://emilousim.github.io/)
+<!-- - 👨‍💻 All of my projects are available at [https://emilousim.github.io/](https://emilousim.github.io/) -->
 
 - 📫 How to reach me **emilousim@gmail.com**
 
